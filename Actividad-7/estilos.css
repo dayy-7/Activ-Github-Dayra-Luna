@@ -1,0 +1,68 @@
+.titulo {
+font-size: 2.2rem;
+color: #81377b;
+text-align: center;
+margin-bottom: 20px;
+}
+
+
+
+.menu {
+text-align: center;
+background-color: #efd9f3;
+padding: 12px;
+margin-bottom: 25px;
+border-radius: 6px;
+}
+
+.menu a {
+color: #c58787;
+text-decoration: none;
+font-size: 1.1rem;
+margin: 0 15px;
+}
+
+.contenido {
+max-width: 800px;
+margin: 0 auto;
+}
+
+.contenido h2 {
+color: hwb(305 26% 43%);
+}
+
+.tarjeta {
+background-color: #fdebeb;
+border: 2px solid #b46a9c;
+padding: 20px;
+margin: 15px 0;
+border-radius: 8px;
+}
+
+
+.tarjeta h3 {
+color: #a34c9c;
+margin-bottom: 10px;
+}
+
+.tarjeta p {
+color: #5a5a5a;
+}
+
+.destacado {
+color: rgb(89, 0, 255);
+}
+
+.footer {
+
+    text-align: center;
+    background-color: #efd9f3;
+    color: #be75a6;
+    padding: 15px;
+    border-radius: 6px;
+    margin-top: 20px;
+
+}
+
+
+

@@ -1,0 +1,80 @@
+#encabezado-principal {
+    background: #eca5d5;
+    color: #af5498;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+#menu-navegacion {
+    background-color: #eeb5e4;
+    text-align: center;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgb(213, 124, 240);
+}
+
+#menu-navegacion a {
+    color: #964bc2;
+    text-decoration: none;
+    margin: 0 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+#pie-pagina {
+    background-color: #dab2b2;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    color: #7a3b3b;
+}
+
+.contenedor-principal {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#seccion-accion{
+    text-align: center;
+    background-color: #efd9f3;
+    padding: 40px 20px;
+
+}
+
+#seccion-romance{
+    text-align: center;
+    background-color: #efd9f3;
+    padding: 40px 20px;
+}
+.grupo-tarjetas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.tarjeta-kdrama {
+    background-color: #dfc0c0;
+    border-radius: 8px;
+    padding: 20px;
+    width: 30%;
+    box-sizing: border-box;
+
+}
+
+.tarjeta-kdrama img{
+    text-align: center;
+    margin-top: 60px;
+    align-items: stretch;
+}
+
+
+.imagen-destacada {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 8px;
+    
+}

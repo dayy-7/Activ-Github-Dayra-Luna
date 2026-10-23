@@ -1,0 +1,52 @@
+.Titulo {
+
+    color: #8a5252;
+    text-align: center;
+
+}
+
+.Tarjeta {
+
+    width: 300px;
+    padding: 15px;
+    border: 2px solid rgb(190, 135, 135);
+    margin: 20px;
+    text-align: center;
+    background-color: #f7caca;
+    display: inline-block;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    margin-top: 20px;
+    width: 250px;   
+    height: 420px;
+    vertical-align: top;
+
+}
+
+.Tarjeta h2 {
+
+    color: #b36666;
+
+}
+
+.Tarjeta p {
+
+    color: #8a4646;
+
+}
+
+.imagen {
+
+    width: 100%;
+     
+}
+
+.enlace{
+
+    background-color: #dd9191;
+    color: #572938;
+    padding: 2px 15px;
+    margin: 10px;
+    
+}
